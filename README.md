@@ -1,6 +1,6 @@
 
 # Grocery Shop Management
-The Grocery Shop Management System is a C-based console application designed to streamline grocery store operations, including managing products and employees, billing, and storing invoices. Key features include adding, updating, and removing products and employees, as well as generating and storing invoices.
+The Grocery Shop Management System is a C-based console application designed to streamline grocery store operations, including managing products and employees, billing, and storing invoices. Key features include adding, updating, and removing products and employees, as well as generating and storing invoices and searching invoices using customer's name.
 
 
 
@@ -27,6 +27,8 @@ The Grocery Shop Management System is a C-based console application designed to 
    i) Create Invoice: Generates invoices for customer purchases and calculates the total cost.
 
    ii) Store Invoices: Maintains a record of all generated invoices for future reference and auditing purposes.
+
+   iii) Search Invoices: Searches particular invoices using customer's name.
 
 ## Tools Used:
 C programming language
