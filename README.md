@@ -8,6 +8,7 @@ The Grocery Shop Management System is a C-based console application designed to 
 ## Features:
 
 ![Screenshot 2024-05-27 213832](https://github.com/Afsana2020/groceryshopmanagement/assets/65228189/f1ec75e4-2e19-44a7-ad3b-5e9f64fcae74)
+
 Fig-1: Mainmenu
 
 1. Product Management:
@@ -19,6 +20,7 @@ Fig-2: Product Management
 
     i) Add Product: Allows the user to add new products to the inventory with details such as product ID, name, quantity, and price. It can make sure that all the products have unique names and IDs.
 
+    
     ![Screenshot 2024-05-27 214100](https://github.com/Afsana2020/groceryshopmanagement/assets/65228189/395f564d-c60d-49b3-a971-eaddf7bc3a36)
 
 
@@ -39,7 +41,8 @@ Fig-2: Product Management
    
    iv) Display Product: Display all the added products of the inventory with all details such as ID, price, and quantity as well as adding date.
 
-    ![Screenshot 2024-05-27 213935](https://github.com/Afsana2020/groceryshopmanagement/assets/65228189/a9c99e21-38d1-486b-a430-308651a94aa1)
+  
+![Screenshot 2024-05-27 213935](https://github.com/Afsana2020/groceryshopmanagement/assets/65228189/405bcda5-20c2-47f4-9b34-ae7e71b06b03)
 
     
     Fig-6: Display Products
