@@ -21,20 +21,20 @@ Fig-2: Product Management
     i) Add Product: Allows the user to add new products to the inventory with details such as product ID, name, quantity, and price. It can make sure that all the products have unique names and IDs.
 
     
-    ![Screenshot 2024-05-27 214100](https://github.com/Afsana2020/groceryshopmanagement/assets/65228189/395f564d-c60d-49b3-a971-eaddf7bc3a36)
+![Screenshot 2024-05-27 214100](https://github.com/Afsana2020/groceryshopmanagement/assets/65228189/395f564d-c60d-49b3-a971-eaddf7bc3a36)
 
 
     Fig-3: Add products
 
    ii) Update Product: Provides the functionality to update existing product details.
 
-    ![updP](https://github.com/Afsana2020/groceryshopmanagement/assets/65228189/a72a28f7-6842-4058-a054-276894980999)
+![updP](https://github.com/Afsana2020/groceryshopmanagement/assets/65228189/a72a28f7-6842-4058-a054-276894980999)
 
    Fig-4: Update Product
 
    iii) Remove Product: Enables the removal of products from the inventory.
 
-    ![remP](https://github.com/Afsana2020/groceryshopmanagement/assets/65228189/c58deaf3-3f11-4ff4-8999-e9b7d16ba2a2)
+![remP](https://github.com/Afsana2020/groceryshopmanagement/assets/65228189/c58deaf3-3f11-4ff4-8999-e9b7d16ba2a2)
 
     
    Fig-5: Remove Product
