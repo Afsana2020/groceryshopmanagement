@@ -37,6 +37,14 @@ The Grocery Shop Management System is a C-based console application designed to 
 
 ## Tools Used:
 C programming language
+
+## Our Team:
+1. Afsana Hena
+2. Abdul Hakim Shifat
+3. Tahia Zaima
+4. Maisha Maliha
+5. Jannatul Aurpy
+   
 ## Contact:
 
 Email: afsanahena24@gmail.com
