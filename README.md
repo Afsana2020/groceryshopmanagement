@@ -18,7 +18,7 @@ Fig-1: Mainmenu
 
 Fig-2: Product Management
 
-    i) Add Product: Allows the user to add new products to the inventory with details such as product ID, name, quantity, and price. It can make sure that all the products have unique names and IDs.
+i) Add Product: Allows the user to add new products to the inventory with details such as product ID, name, quantity, and price. It can make sure that all the products have unique names and IDs.
 
     
 ![Screenshot 2024-05-27 214100](https://github.com/Afsana2020/groceryshopmanagement/assets/65228189/395f564d-c60d-49b3-a971-eaddf7bc3a36)
